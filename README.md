@@ -39,6 +39,4 @@ Android Developer. Kotlin and Java.
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ericksavluchinske&hide=contribs&show_icons=true&bg_color=121212&title_color=FFFFFF&text_color=A0A0A0&icon_color=A0A0A0&hide_border=true&count_private=true)
-
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksavluchinske&count_private=true&include_all_commits=true&langs_count=5&bg_color=121212&title_color=FFFFFF&text_color=A0A0A0&hide_border=true)
